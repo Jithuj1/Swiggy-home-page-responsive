@@ -1,0 +1,115 @@
+.logoclass{
+    width: 8rem;
+    height: 3rem;
+}
+.para1{
+    font-size: .8rem;
+}
+.para2{
+    font-size: .8rem;
+}
+.input-bar{
+    width: 12rem;
+}
+.sec1-part2{
+    height: 30rem;
+    background-size: cover;
+    background-image: url("https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_1340/Dinner3-new_sacgrd");
+
+}
+.login-btn1{
+    color: black;
+    font-weight: 600;
+}
+.login-btn1:hover{
+    color: black;
+    font-weight: 600;
+}
+.sing{
+    background-color: black;
+}
+.search-sub1{
+    border: 2px solid black;
+    width: 30rem;
+}
+.search-main{
+    display: flex;
+    justify-content: center;
+}
+.input-bar:focus{
+    outline: none;
+    }
+.section-2{
+    background-color: #2B1E16;
+}
+.sec2-img{
+    width: 5rem;
+    height: 10rem;
+}
+.sec2-p{
+    font-size: .7rem;
+    font-weight: 500;
+    color: #f6b903;
+}
+.sec3-part1 h1{
+    font-size: 2rem;
+}
+.sec3-part1 h5{
+    font-size: 1rem;
+}
+.sec3-part1{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.sec3-part1 img{
+    width: 12rem;
+}
+.sec3-part2 img{
+    width: 16rem
+}
+.sec3-part3 img{
+    width: 16rem
+}
+.flex{
+    display: flex;
+    justify-content: center;
+    
+}
+.flex img{
+    height:2.3rem;
+    width: 8rem;
+    margin-left: 1rem;
+}
+.sec4-part4 img{
+    width: 9rem;
+    border:  1px solid white;
+    border-radius: 10px;
+}
+.sec4-p1{
+    font-size: .7rem;
+    color: #52697B;
+    font-weight: 700;
+}
+.sec4-p2{
+    font-size: .7rem;
+    line-height: 1.5rem;
+    text-align: start;
+    padding-left: 6.5rem;
+}
+.lists{
+    color: white;
+    font-size: .7rem;
+    line-height: 1.5rem;  
+    text-align-last: center; 
+}
+.final-logo{
+    width: 6.5rem;
+}
+.final-text{
+    font-size: .9rem;
+}
+.final-icon  img{
+    width: 1.3rem;
+    margin-left: 1.5rem;
+}
